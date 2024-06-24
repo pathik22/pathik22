@@ -24,7 +24,7 @@ I'm currently learning [Technology/Skill].
 
 ## 📫 How to Reach Me
 - Email: pathik22@gmail.com
-- LinkedIn: pathik22(https://www.linkedin.com/in/pathik22/)
+- LinkedIn: [pathik22](https://www.linkedin.com/in/pathik22/)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
