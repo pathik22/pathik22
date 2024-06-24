@@ -32,5 +32,7 @@ I'm currently learning [Technology/Skill].
 ## 💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik22&layout=compact&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik&langs_count=8)
+
 ## 🏆 GitHub Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pathik22&theme=onedark)
