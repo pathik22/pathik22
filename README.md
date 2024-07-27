@@ -1,7 +1,7 @@
 # Hi there, I'm Pathik Bhatt 👋
 
 ## About Me
-I'm a Senior Software Engineer with a passion for Web Developing. I have more than 11 years of professional experience in this field. I'm currently Full Stack developer, Freelancer.
+I'm a Senior Software Engineer with a passion for Web Developing. I have more than 12 years of professional experience in this field. I'm currently a Full Stack developer, Freelancer.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: PHP, Python, HTML, CSS
