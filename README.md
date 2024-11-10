@@ -5,7 +5,7 @@ I'm a Senior Software Engineer with a passion for Web Developing. I have more th
 
 ## 🔧 Technologies & Tools
 - Programming Languages: PHP, Python, HTML, CSS
-- Frameworks: Laravel, Codeigniter, Django, Bootstrap
+- Frameworks: Laravel, Codeigniter, Django, Bootstrap, ReactJs
 - Databases: MySQL, PostgreSQL, MongoDB
 - CMS: WordPress
 - Version Control: Git
