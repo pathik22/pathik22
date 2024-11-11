@@ -23,8 +23,8 @@ Here are some of the projects I've worked on:
 I'm currently learning [Technology/Skill]. -->
 
 ## 📫 How to Reach Me
-- Email: pathik22@gmail.com
-- LinkedIn: [pathik22](https://www.linkedin.com/in/pathik22/)
+- Email: [pathik22@gmail.com] (mailto:pathik22@gmail.com)
+- LinkedIn: [/pathik22](https://www.linkedin.com/in/pathik22/)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=radical)
