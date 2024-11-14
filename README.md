@@ -76,6 +76,9 @@ Regularly contributes to open-source projects, collaborating with developers to 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pathik22&theme=onedark)
+
 ## 🤝 Connect
 
 - Email: pathik22@gmail.com
