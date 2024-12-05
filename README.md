@@ -43,7 +43,7 @@ Experienced **Web Developer** with over 12 years in the industry, specializing i
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: PHP, Python, HTML, CSS
+- **Programming Languages**: PHP, Javascript, Python, HTML, CSS
 - **Frameworks**: Laravel, CodeIgniter, Django, Bootstrap, React.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **CMS**: WordPress
