@@ -118,7 +118,6 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 ## 📊 GitHub Stats  
 
 ![Pathik Bhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=transparent)
-![anuraghazra/github-readme-stats/pathik22/github-readme-streak-stats]
 
 ## 🏆 GitHub Trophies  
 
