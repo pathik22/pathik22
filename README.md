@@ -129,6 +129,8 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathik22&theme=radical)](https://git.io/streak-stats)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=transparent)
+
 ---
 
 ## 📞 Connect with Me  
