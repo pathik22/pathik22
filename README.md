@@ -60,7 +60,7 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 
 ## 📂 Featured Projects  
 
-### 🌐 Immrse Virtual Career Simulator  
+### 🌐 Immrse Virtual Career Simulator
 🔗 [Visit Immrse Platform](https://immrse.mindler.com/)  
 
 A platform that allows users to explore various career paths and gain valuable insights from the comfort of their home. Through the **Virtual Career Simulator**, users can experience real-world internships and understand the inner workings of multiple professions.
@@ -73,21 +73,15 @@ A platform that allows users to explore various career paths and gain valuable i
 
 ---
 
-### **Gold Spot Price Tracker (MERN Stack)**  
-A real-time price tracking application using Alpha Vantage API.  
-- Developed secure authentication using JWT.  
-- Implemented Redux for state management and optimized performance for real-time updates.  
+### 🌐 PUMA Corporate Experience
+🔗 [Visit PUMA Corporate Experience](https://ce.mindler.com/)  
 
-[🔗 View Repository](https://github.com/pathik22/gold-spot-price-tracker)  
-
----
-
-### **React Portfolio**  
-My dynamic portfolio showcasing my projects and achievements.  
-- Built with ReactJS and styled using modern UI frameworks.  
-- Fully responsive and optimized for SEO.  
-
-[🔗 View Repository](https://github.com/pathik22/react-portfolio)  
+The **PUMA Corporate Experience** allows you to collaborate virtually with PUMA executives to launch a brand-new pair of shoes during the **Football World Cup**. This opportunity combines innovation, marketing strategy, and real-world exposure to help you develop critical skills in the corporate world.
+- Work directly with **PUMA executives** to create a successful marketing strategy.
+- Contribute to launching a new product on the **global stage** at the Football World Cup.
+- Gain hands-on experience in **marketing**, strategy formulation, and brand management.
+- Win **PUMA merchandise** and **acclaim** for delivering a successful plan.
+- Perfect for honing **corporate communication** and **collaboration skills**.  
 
 ---
 
