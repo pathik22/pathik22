@@ -60,6 +60,19 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 
 ## 📂 Featured Projects  
 
+### 🌐 Immrse Virtual Career Simulator  
+🔗 [Visit Immrse Platform](https://immrse.mindler.com/)  
+
+A platform that allows users to explore various career paths and gain valuable insights from the comfort of their home. Through the **Virtual Career Simulator**, users can experience real-world internships and understand the inner workings of multiple professions.
+- Built with **Laravel** and **MySQL** for secure and scalable architecture.
+- Seamless **API integrations** for dynamic content and functionality.
+- Generates **15-page career reports** to identify user strengths and weaknesses.
+- Over 10,000 students have enrolled and benefited from the program.
+- Provides **Certificate of Experience** to enhance resumes and professional growth.
+- Minimal time commitment—just 30 minutes per day for real-world insights.
+
+
+
 ### **Gold Spot Price Tracker (MERN Stack)**  
 A real-time price tracking application using Alpha Vantage API.  
 - Developed secure authentication using JWT.  
