@@ -36,25 +36,36 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 
 ---
 
-## 🔧 Technical Skills  
+## 💻 Technical Skills
 
-### **Programming Languages**  
-- PHP, JavaScript  
+### **Programming Languages:**
+- **PHP** (Advanced), **JavaScript**, **HTML5**, **CSS3**, **Sass**  
+- **SQL** (MySQL, PostgreSQL), **NoSQL** (MongoDB)
 
-### **Frameworks & Libraries**  
-- Laravel, CodeIgniter, ReactJS, Bootstrap, jQuery, REST APIs  
+### **Frameworks & Libraries:**
+- **Laravel** (Advanced), **CodeIgniter**, **Django**, **ReactJS**, **Bootstrap**, **jQuery**, **TailwindCSS**
 
-### **Databases**  
-- MySQL, MongoDB, PostgreSQL  
+### **Web Development & CMS:**
+- **WordPress** (Advanced), **WooCommerce**, **Shopify**, **Magento**
+- **RESTful APIs**, **GraphQL**, **JSON**
 
-### **Development & Collaboration Tools**  
-- Git, Postman, Jira, ClickUp, Slack  
+### **Cloud & DevOps:**
+- **AWS** (Amazon Web Services)
 
-### **UI/UX Tools**  
-- Adobe Photoshop, Illustrator, Canva  
+### **Version Control & Collaboration:**
+- **Git**, **GitHub**, **Bitbucket**
+- **Jira**, **ClickUp**, **Slack**, **Trello**
 
-### **Cloud & Integrations**  
-- AWS, Payment Gateways, Email Gateways, SMS Gateways, Zoom, Zoho, Brevo  
+### **Databases & Caching:**
+- **MySQL**, **PostgreSQL**, **MongoDB**
+
+### **Design & Prototyping:**
+- **Adobe Photoshop**, **Illustrator**, **Canva**
+
+### **Other Skills:**
+- **Agile Methodology** (Scrum, Kanban)
+- **SEO**, **Web Analytics**, **Digital Marketing**
+- **Payment Gateway Integrations** (Razorpay, Stripe, PayPal)
 
 ---
 
