@@ -141,14 +141,17 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/pathik22)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pathik22)  
 [![Wellfound](https://img.shields.io/badge/Wellfound-000000?logo=wellfound&logoColor=white)](https://wellfound.com/u/pathik22)
-
----
-
-## 💼 How to Contact Me  
 - **For job opportunities or collaborations**, please reach out at [pathik22@gmail.com](mailto:pathik22@gmail.com).  
 - I’m also active on **LinkedIn** for professional networking.
 
 ---
+
+<!-- 
+## 💼 How to Contact Me  
+- **For job opportunities or collaborations**, please reach out at [pathik22@gmail.com](mailto:pathik22@gmail.com).  
+- I’m also active on **LinkedIn** for professional networking. 
+-->
+
 [![](https://visitcount.itsvg.in/api?id=pathik22&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!--
