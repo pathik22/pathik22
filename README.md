@@ -93,7 +93,7 @@ The **PUMA Corporate Experience** allows you to collaborate virtually with PUMA 
 - Win **PUMA merchandise** and **acclaim** for delivering a successful plan.
 - Perfect for honing **corporate communication** and **collaboration skills**.
 
-  ### 🌐 HRX Corporate Experience
+### 🌐 HRX Corporate Experience
 🔗 [Visit HRX Corporate Experience](https://hrx.mindler.com/)  
 
 The **HRX Corporate Experience** is a unique opportunity to dive into **Digital Marketing** and learn cutting-edge skills in **Web 2 and Web 3**, **Metaverse**, **NFTs**, **Crypto**, and **Blockchain**. Students will work on marketing the entire **HRX U-17 product line** during the **Youth Olympics** in collaboration with **Hrithik Roshan's HRX** brand and **Mindler**.
