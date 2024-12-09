@@ -39,11 +39,13 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 ## 💻 Technical Skills
 
 ### **Programming Languages:**
-- **PHP** (Advanced), **JavaScript**, **HTML5**, **CSS3**, **Sass**  
+- **PHP** (Advanced), **JavaScript**, **HTML5**, **CSS3**, **Sass**
+
+### **Databases & Caching:**
 - **SQL** (MySQL, PostgreSQL), **NoSQL** (MongoDB)
 
 ### **Frameworks & Libraries:**
-- **Laravel** (Advanced), **CodeIgniter**, **Django**, **ReactJS**, **Bootstrap**, **jQuery**, **TailwindCSS**
+- **Laravel** (Advanced), **CodeIgniter**, **ReactJS**, **Bootstrap**, **jQuery**, **TailwindCSS**
 
 ### **Web Development & CMS:**
 - **WordPress** (Advanced), **WooCommerce**, **Shopify**, **Magento**
@@ -55,9 +57,6 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 ### **Version Control & Collaboration:**
 - **Git**, **GitHub**, **Bitbucket**
 - **Jira**, **ClickUp**, **Slack**, **Trello**
-
-### **Databases & Caching:**
-- **MySQL**, **PostgreSQL**, **MongoDB**
 
 ### **Design & Prototyping:**
 - **Adobe Photoshop**, **Illustrator**, **Canva**
