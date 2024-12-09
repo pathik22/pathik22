@@ -127,7 +127,6 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ## 📈 Contribution Graph  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathik22&theme=radical)](https://git.io/streak-stats) 
 [![Pathik Bhatt's GitHub Streak](https://streak-stats.demolab.com?user=pathik22&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ---
