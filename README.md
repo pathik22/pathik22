@@ -117,7 +117,6 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ## 📊 GitHub Stats  
 
-![Pathik Bhatt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=radical)  
 ![Pathik Bhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=transparent)
 
 ## 🏆 GitHub Trophies  
@@ -128,11 +127,7 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ## 📈 Contribution Graph  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathik22&theme=radical)](https://git.io/streak-stats)  
-
----
-![Pathik Bhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=transparent)
-[![Pathik Bhatt's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pathik22/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathik22&theme=radical)](https://git.io/streak-stats) 
 
 ---
 
