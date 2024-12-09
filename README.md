@@ -123,6 +123,10 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pathik22&theme=dracula&margin-w=15)  
 
+## 🏆 GitHub Languages  
+
+![Pathik Bhatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik22&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## 📈 Contribution Graph  
