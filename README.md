@@ -60,6 +60,16 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 
 ## 📂 Featured Projects  
 
+### 🌐 Veefin SCF Platform Enhancements (Laravel)  
+
+Enhanced **banking functionalities** and **user experiences** for the **Veefin SCF Platform** through robust **Laravel** development, optimizing security and operational efficiency.
+- Collaborated with cross-functional teams to resolve **security vulnerabilities** using **Burp Suite**.
+- Delivered seamless **API integrations** to facilitate smooth data flow between partners.
+- Improved **platform performance** and user accessibility with enhanced features.
+- Streamlined **transaction processing** and ensured **scalability** for future growth.
+
+---
+
 ### 🌐 Immrse Virtual Career Simulator
 🔗 [Visit Immrse Platform](https://immrse.mindler.com/)  
 
@@ -81,16 +91,19 @@ The **PUMA Corporate Experience** allows you to collaborate virtually with PUMA 
 - Contribute to launching a new product on the **global stage** at the Football World Cup.
 - Gain hands-on experience in **marketing**, strategy formulation, and brand management.
 - Win **PUMA merchandise** and **acclaim** for delivering a successful plan.
-- Perfect for honing **corporate communication** and **collaboration skills**.  
+- Perfect for honing **corporate communication** and **collaboration skills**.
 
----
+  ### 🌐 HRX Corporate Experience
+🔗 [Visit HRX Corporate Experience](https://hrx.mindler.com/)  
 
-### **SCF Platform Enhancements (Laravel)**  
-Enhanced banking functionalities and user experiences with robust Laravel development.  
-- Collaborated with cross-functional teams to resolve security issues using Burp Suite.  
-- Delivered API integrations for seamless data flow between partners.  
+The **HRX Corporate Experience** is a unique opportunity to dive into **Digital Marketing** and learn cutting-edge skills in **Web 2 and Web 3**, **Metaverse**, **NFTs**, **Crypto**, and **Blockchain**. Students will work on marketing the entire **HRX U-17 product line** during the **Youth Olympics** in collaboration with **Hrithik Roshan's HRX** brand and **Mindler**.
 
-[🔗 View Repository](https://github.com/pathik22/scf-platform)  
+### Key Features:
+- Learn **Digital Marketing** skills for both Web 2.0 and Web 3.0.
+- Hands-on exposure to emerging technologies like **NFTs**, **Metaverse**, and **Blockchain**.
+- Work on marketing strategies for HRX’s **U-17 product line** at the **Youth Olympics**.
+- Experience collaboration with **HRX** and **Mindler** to build a real-world product launch plan.
+- Perfect for gaining a competitive edge in **tech-driven marketing** and **brand management**.
 
 ---
 
