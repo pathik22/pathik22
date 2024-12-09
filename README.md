@@ -131,7 +131,7 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=transparent)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pathik22/github-readme-stats#gh-dark-mode-only)
+[![Pathik Bhatt's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pathik22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pathik22/github-readme-stats#gh-dark-mode-only)
 
 ---
 
