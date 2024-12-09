@@ -145,5 +145,8 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ## 💼 How to Contact Me  
 - **For job opportunities or collaborations**, please reach out at [pathik22@gmail.com](mailto:pathik22@gmail.com).  
-- I’m also active on **LinkedIn** for professional networking.  
+- I’m also active on **LinkedIn** for professional networking.
+
+---
+[![](https://visitcount.itsvg.in/api?id=pathik22&icon=5&color=0)](https://visitcount.itsvg.in)
 
