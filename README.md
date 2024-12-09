@@ -121,7 +121,7 @@ The **HRX Corporate Experience** is a unique opportunity to dive into **Digital 
 
 ## 🏆 GitHub Trophies  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pathik22&theme=dracula&margin-w=15) 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pathik22&theme=react&margin-w=15) 
 ![](https://github-trophies.vercel.app/?username=pathik22&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🏆 GitHub Languages  
