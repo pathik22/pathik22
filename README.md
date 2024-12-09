@@ -71,7 +71,7 @@ A platform that allows users to explore various career paths and gain valuable i
 - Provides **Certificate of Experience** to enhance resumes and professional growth.
 - Minimal time commitment—just 30 minutes per day for real-world insights.
 
-
+---
 
 ### **Gold Spot Price Tracker (MERN Stack)**  
 A real-time price tracking application using Alpha Vantage API.  
