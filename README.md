@@ -37,7 +37,7 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 ## 💻 Technical Skills
 
 ### **Programming Languages:**
-- **PHP** (Advanced), **JavaScript**, **HTML5**, **CSS3**
+- **PHP**, **JavaScript**, **HTML5**, **CSS3**
 
 ### **Databases & Caching:**
 - **SQL** (MySQL, PostgreSQL), **NoSQL** (MongoDB)
