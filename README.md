@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 # 👨‍💻 Welcome to Pathik Bhatt's GitHub Profile!  
 
 ## 🚀 About Me  
-I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experience in building high-performance, scalable, and user-focused web applications. My expertise lies in **full-stack development**, **API design**, and delivering robust solutions tailored to business needs. I am constantly learning and adapting to the latest trends in technology to create impactful solutions.
+I'm **Pathik Bhatt**, a **Senior Software Engineer** with 13+ years of experience in building high-performance, scalable, and user-focused web applications. My expertise lies in **full-stack development**, **API design**, and delivering robust solutions tailored to business needs. I am constantly learning and adapting to the latest trends in technology to create impactful solutions.
 
 ### 🏆 Career Highlights  
-- **12+ years** of experience in full-stack development with expertise in **PHP**, **Laravel** and **API integrations**.  
+- **13+ years** of experience in full-stack development with expertise in **PHP**, **Laravel** and **API integrations**.  
 - Delivered end-to-end solutions for **enterprise applications**, including SCF platforms and e-learning portals.  
 - **Proficient in integrating** modern tools like **AWS**, **Zoho CRM**, **Brevo**, and **SMS gateways** for seamless business operations.  
 - Adept at working in **Agile teams**, troubleshooting complex issues, and ensuring **on-time delivery**.  
@@ -40,7 +40,7 @@ I'm **Pathik Bhatt**, a **Senior Software Engineer** with 12+ years of experienc
 - **PHP**, **JavaScript**, **HTML5**, **CSS3**
 
 ### **Databases & Caching:**
-- **SQL** (MySQL, PostgreSQL), **NoSQL** (MongoDB)
+- **SQL** (MySQL), **NoSQL** (MongoDB)
 
 ### **Frameworks & Libraries:**
 - **Laravel**, **CodeIgniter**, **Bootstrap**, **jQuery**, **TailwindCSS**
