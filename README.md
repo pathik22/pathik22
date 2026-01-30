@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👨‍💻 Welcome to Pathik Bhatt's GitHub Profile!  
 
 ## 🚀 About Me  
-I'm **Pathik Bhatt**, a **Senior Software Engineer** with 13+ years of experience in building high-performance, scalable, and user-focused web applications. My expertise lies in **full-stack development**, **API design**, and delivering robust solutions tailored to business needs. I am constantly learning and adapting to the latest trends in technology to create impactful solutions.
+I'm **Pathik Bhatt**, a **Senior Software Engineer** with 13+ years of experience in building high-performance, scalable, and user-focused web applications. My expertise lies in **backend development**, **API design**, and delivering robust solutions tailored to business needs. I am constantly learning and adapting to the latest trends in technology to create impactful solutions.
 
 ### 🏆 Career Highlights  
 - **13+ years** of experience in full-stack development with expertise in **PHP**, **Laravel** and **API integrations**.  
