@@ -160,11 +160,11 @@ If you have a project to build from scratch, need custom API/gateway integration
 <div align="center">
   <br/>
   <a href="mailto:pathik22@gmail.com">
-    <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-your--email@example.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-pathik22@gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pathik22/" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT-ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT-ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <br/><br/>
   <p>Available for freelance contracts, feature development, and long-term remote collaboration.</p>
