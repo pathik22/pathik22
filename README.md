@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/pathik22/" target="_blank">
+<a href="https://www.linkedin.com/in/pathik22/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -78,62 +78,62 @@ I handle end-to-end delivery across the entire stack:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://immrse.mindler.com/"><b>Immrse Platform</b></a></td>
+      <td><a href="https://immrse.mindler.com/" target="_blank" rel="noopener noreferrer"><b>Immrse Platform</b></a></td>
       <td>Interactive Simulation (Full-Stack)</td>
       <td>Built frontend and backend for interactive career simulations, tracking evaluation data and assessments at scale.</td>
     </tr>
     <tr>
-      <td><a href="https://ce.mindler.com/"><b>CE Platform</b></a></td>
+      <td><a href="https://ce.mindler.com/" target="_blank" rel="noopener noreferrer"><b>CE Platform</b></a></td>
       <td>Partner System (Full-Stack)</td>
       <td>Engineered full-stack partner platform with multi-level role access and dynamic reporting.</td>
     </tr>
     <tr>
-      <td><a href="https://hrx.mindler.com/"><b>HRX Suite</b></a></td>
+      <td><a href="https://hrx.mindler.com/" target="_blank" rel="noopener noreferrer"><b>HRX Suite</b></a></td>
       <td>Assessment Platform (Full-Stack)</td>
       <td>Built frontend and backend for candidate assessments, evaluation benchmarks, and recruitment reporting.</td>
     </tr>
     <tr>
-      <td><a href="https://vastrambynishtha.com/"><b>Vastram by Nishtha</b></a></td>
+      <td><a href="https://vastrambynishtha.com/" target="_blank" rel="noopener noreferrer"><b>Vastram by Nishtha</b></a></td>
       <td>Fashion & Apparel</td>
       <td>Custom product catalog, dynamic filtering, responsive layouts, and customer inquiry workflows.</td>
     </tr>
     <tr>
-      <td><a href="https://stgrealty.in/"><b>STG Realty</b></a></td>
+      <td><a href="https://stgrealty.in/" target="_blank" rel="noopener noreferrer"><b>STG Realty</b></a></td>
       <td>Real Estate Portal</td>
       <td>Engineered property listing platform with asynchronous AJAX search and filter functionality.</td>
     </tr>
     <tr>
-      <td><a href="https://studiopolyphony.com/"><b>Studio Polyphony</b></a></td>
+      <td><a href="https://studiopolyphony.com/" target="_blank" rel="noopener noreferrer"><b>Studio Polyphony</b></a></td>
       <td>Architecture & Design</td>
       <td>Developed clean, fast-loading portfolio with modern layouts and optimized media delivery.</td>
     </tr>
     <tr>
-      <td><a href="https://elixirskinandhairclinic.com/"><b>Elixir Clinic</b></a></td>
+      <td><a href="https://elixirskinandhairclinic.com/" target="_blank" rel="noopener noreferrer"><b>Elixir Clinic</b></a></td>
       <td>Healthcare</td>
       <td>Built clinic website, patient inquiry handling, and consultation booking pipelines.</td>
     </tr>
     <tr>
-      <td><a href="https://thekhadimsrestaurant.com/"><b>The Khadim's Restaurant</b></a></td>
+      <td><a href="https://thekhadimsrestaurant.com/" target="_blank" rel="noopener noreferrer"><b>The Khadim's Restaurant</b></a></td>
       <td>Hospitality & Dining</td>
       <td>Developed interactive food menu presentation optimized for mobile and desktop browsing.</td>
     </tr>
     <tr>
-      <td><a href="https://ninjatiger.ca/"><b>Ninja Tiger</b></a></td>
+      <td><a href="https://ninjatiger.ca/" target="_blank" rel="noopener noreferrer"><b>Ninja Tiger</b></a></td>
       <td>Brand Agency (Full-Stack)</td>
       <td>Built frontend and backend components with fast page loads and structured content management.</td>
     </tr>
     <tr>
-      <td><a href="https://promateus.com/"><b>Promateus</b></a></td>
+      <td><a href="https://promateus.com/" target="_blank" rel="noopener noreferrer"><b>Promateus</b></a></td>
       <td>Corporate Services</td>
       <td>Engineered corporate business portal with clean service structures and lead inquiry forms.</td>
     </tr>
     <tr>
-      <td><a href="https://www.mowglis.com/"><b>Mowgli's</b></a></td>
+      <td><a href="https://www.mowglis.com/" target="_blank" rel="noopener noreferrer"><b>Mowgli's</b></a></td>
       <td>Retail E-Commerce (Full-Stack)</td>
       <td>Built frontend and backend for product catalog, shopping cart, customer ordering, and custom admin panel.</td>
     </tr>
     <tr>
-      <td><a href="https://dopandtang.com/"><b>Dop and Tang</b></a></td>
+      <td><a href="https://dopandtang.com/" target="_blank" rel="noopener noreferrer"><b>Dop and Tang</b></a></td>
       <td>Creative Agency (Full-Stack)</td>
       <td>Built interactive agency showcase featuring dynamic AJAX content loading and custom presentation.</td>
     </tr>
@@ -163,7 +163,7 @@ If you have a project to build from scratch, need custom API/gateway integration
     <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-pathik22@gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pathik22/" target="_blank">
+  <a href="https://www.linkedin.com/in/pathik22/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CONNECT-ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <br/><br/>
