@@ -27,7 +27,7 @@
 
 ### About Me
 
-I am a senior full-stack developer with over 13 years of practical experience building, deploying, and maintaining web applications, secure media delivery platforms, and digital products. Over the years, I have worked on SaaS tools, e-commerce systems with custom admin panels, mobile applications, and business platforms for teams and clients worldwide.
+I am a senior full-stack developer with over 14 years of practical experience building, deploying, and maintaining web applications, secure media delivery platforms, and digital products. Over the years, I have worked on SaaS tools, e-commerce systems with custom admin panels, mobile applications, and business platforms for teams and clients worldwide.
 
 I handle end-to-end delivery across the entire stack:
 
