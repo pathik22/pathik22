@@ -8,7 +8,7 @@
 </p>
 
 [![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-2ea44f?style=for-the-badge)](#get-in-touch)
-[![Experience](https://img.shields.io/badge/Experience-13%2B%20Years-0969da?style=for-the-badge)](#)
+[![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-0969da?style=for-the-badge)](#)
 [![Remote](https://img.shields.io/badge/Work-Remote%20Worldwide-orange?style=for-the-badge)](#)
 
 <br/>
