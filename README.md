@@ -4,7 +4,7 @@
 ### Senior Full-Stack Developer & Freelancer
 
 <p align="center">
-  <b>13+ Years Building Production Systems • Full-Stack Web Apps • Secure Media & APIs • Global Remote Delivery</b>
+  <b>14+ Years Building Production Systems • Full-Stack Web Apps • Secure Media & APIs • Global Remote Delivery</b>
 </p>
 
 [![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-2ea44f?style=for-the-badge)](#get-in-touch)
